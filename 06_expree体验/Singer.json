@@ -1,0 +1,14 @@
+{
+    "singers":[
+        {
+            "singersName": "周杰伦",
+            "singersPicture": "http://1",
+            "id": 1
+        },
+        {
+            "singersName": "wang",
+            "singersPicture": "http://2",
+            "id": 2
+        }
+    ]
+}
